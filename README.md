@@ -27,7 +27,7 @@ You can contact me through MS Teams and schedule consultation as needed.
 ---
 **Schedule**
 
-* lectures: Fridays, 8:00-10:35
+* lectures: Fridays, 8:00-9:40
 
 * laboratories: every second Friday 9:50-11:20 (check USOS schedule for your group for details)
 
