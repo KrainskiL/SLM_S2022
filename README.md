@@ -1,4 +1,4 @@
-# SLM_S2022
+# SLM S2022
 Repository for Statistical Learning Methods [22349-D] - Summer semester 2021/22
 
 **Required software**
@@ -87,9 +87,12 @@ Kamiński B., Zawisza M. (2012), Receptury w R. Podręcznik dla ekonomisty, Ofic
 * Exam during lectures (50 points)
 * Test during laboratories (50 points)
 * Additional points:
-    * Homeworks
-    * Modelling competition during laboratories
-    * [Course certificate](https://juliaacademy.com/p/introduction-to-dataframes-jl1)
+    * Homeworks (1-5 points)
+      * Issued both on lectures and laboratories, more details will be added during the semester
+    * Modelling competition during laboratories (0-5 points)
+      * Competition will be based on classification/regression task with specified metric to optimize (e.g. AUC, RMSE), data will be published just before the start of the class. Competition will be done in groups up to 3 people and any programming language is allowed. Each group should deliver script/notebook with used code and a CSV file with predictions. The best group in each course group will receive 5 points, the second one 4 points, so on. Competition is not mandatory.
+    * [Course certificate](https://juliaacademy.com/p/introduction-to-dataframes-jl1) (5 points)
+      * Send the course completion certificate to lkrain@sgh.waw.pl 
 
 
 ---
