@@ -25,7 +25,7 @@ Group 11
 
 | Team          | F1-score | Points | Language | Model                            |
 |---------------|----------|--------|----------|----------------------------------|
-| JK            | 78,63    | 5      | R        | Gradient Boosted Trees (XGBoost) |
+| Gunners            | 78,63    | 5      | R        | Gradient Boosted Trees (XGBoost) |
 | Grupa_SD      | 78,37    | 4      | Python   | Gradient Boosted Trees (XGBoost) |
 | Python        | 78,07    | 3      | Python   | CART                             |
 | TW            | 77,38    | 2      | Python   | Gradient Boosted Trees (XGBoost) |
