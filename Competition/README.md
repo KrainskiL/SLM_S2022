@@ -37,3 +37,13 @@ Group 11
 | MiRaMi        | 68,81    | 1      | Python   | Logistic Regression              |
 | Robot Chicken | 52,21    | 0      | R        | LDA                              |
 | Penguins      | 33,91    | 0      | R        | Logistic Regression              |
+
+Group 12
+
+| Team          | Accuracy | Points | Language | Model                                 |
+|---------------|----------|--------|----------|---------------------------------------|
+| Alchemist     | 86,82    | 5      | R        | Gradient Boosted Trees (XGBoost)      |
+| Barbecue Team | 86,72    | 4      | R        | Gradient Boosted Trees (XGBoost)      |
+| MB            | 86,38    | 3      | Python   | Gradient Boosted Trees (scikit-learn) |
+| Nerds         | 85,92    | 2      | Python   | Gradient Boosted Trees (XGBoost)      |
+| SW_Group      | 58,8     | 1      | Python   | Gradient Boosted Trees (scikit-learn) |
