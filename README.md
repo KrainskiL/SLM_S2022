@@ -86,6 +86,7 @@ Kamiński B., Zawisza M. (2012), Receptury w R. Podręcznik dla ekonomisty, Ofic
 
 * Exam during lectures (50 points)
 * Test during laboratories (50 points)
+    * Exam is conducted during the last laboratory. The time to complete the exam is 1.5h (9:50-11:20). Exam file (Jupyter notebook containing set of tasks) will be shared through MS Teams just before the class. Filled notebook should be sent to lkrain@sgh.waw.pl before the deadline (11:20). Exam results will be shared through MS Teams.
 * Additional points:
     * Homeworks (1-5 points)
       * Issued both on lectures and laboratories, more details will be added during the semester
